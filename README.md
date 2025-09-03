@@ -1,6 +1,6 @@
 # Meet and work
 # Installation
-* 1 - clone repo https://github.com/Darshanmp1/Meet-and-Work
+* 1 - clone repo https://github.com/theveereshnayak/Meet-and-Work
 * 2 - Create an account on agora.io and create an app to generate an APP ID
 * 3 - Update APP ID, Temp Token and Channel Name in room_rtc.js
 ```javascript
